@@ -33,7 +33,7 @@ The Monte Carlo simulation demonstrated high precision and robustness, as eviden
 
 ## Usage
 
-Run the provided Jupyter notebook (`Monte_Carlo_Simulation.ipynb`) to replicate the results, visualize asset price paths, and explore the underlying methodology.
+Run the provided Jupyter notebook (`Monte_Carlo_Option_Pricing.ipynb`) to replicate the results, visualize asset price paths, and explore the underlying methodology.
 
 ```bash
 git clone <https://github.com/hameed-abiodun/Monte-Carlo-Option-Pricing/>
